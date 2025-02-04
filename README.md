@@ -2,7 +2,7 @@
 
 * This repository is the home of my Bingo project for Software Engineering Principles
 
-## Project Secification
+## Project Specifications
 
 * Implement a bingo game.  If you don't know anything about Bingo, read this reference https://www.wikihow.com/Play-BingoLinks to an external site. 
 * The program shall do the following:
